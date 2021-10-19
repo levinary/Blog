@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Levinary blog'
+theme = "hugo-paper-theme"
